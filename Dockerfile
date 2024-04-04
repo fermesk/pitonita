@@ -11,4 +11,4 @@ EXPOSE 80
 ENV OPENAI_API_KEY = OPENAI_API_KEY
 ENV TELEGRAM_BOT_TOKEN = TELEGRAM_API_KEY
 
-CMD ["python", "./potinita.py"]
+CMD ["python", "./pitonita.py"]
